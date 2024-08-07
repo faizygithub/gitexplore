@@ -2,3 +2,6 @@ function one- i have added new fuction
 function two- i have added very new function 
 function three- i have added something unnessary
 
+Nothing is important
+
+Added a chat function in file 
