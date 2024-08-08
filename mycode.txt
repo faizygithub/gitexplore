@@ -1,4 +1,6 @@
+
 function one- i have added very very important fuction
+
 function two- i have added very new function 
 function three- i have added something unnessary
 
@@ -7,4 +9,5 @@ Nothing is important
 Added a chat function in file 
 
 
-added a function to logout 
+
+
