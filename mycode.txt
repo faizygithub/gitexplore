@@ -1,4 +1,4 @@
-function one- i have added one ok fuction
+function one- i have added a very very  fuction
 function two- i have added very new function 
 function three- i have added something unnessary
 
@@ -6,4 +6,3 @@ Nothing is important
 
 Added a chat function in file 
 
-adding a new function to log in user via X method 
